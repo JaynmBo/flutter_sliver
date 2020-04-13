@@ -4,6 +4,9 @@ NestedScrollView属于Sliver系列控件，是对CustomScrollView的封装。内
 > 看完本篇文章，相信对于Flutter初学者有一定帮助。
 
 
+**DEMO地址：[点击下载](https://github.com/jaynm888/flutter_sliver)**
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200413153835885.gif#pic_center)
 # 一、SliverAppbar 控件介绍
 SliverAppBar “应用栏” 相当于升级版的 appbar 于 AppBar 位置的固定的应用最上面的; 而 SliverAppBar 是可以跟随内容滚动的;
 ## 1、使用方法
